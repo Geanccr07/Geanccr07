@@ -57,7 +57,7 @@ Atualmente trabalho com Growth e CRM: desenvolvo réguas de comunicação, integ
 
 Projeto próprio criado para ajudar profissionais a conquistarem oportunidades de carreira através de conteúdo, mentorias e comunidade.
 
-Além do impacto gerado para os membros, o projeto funciona como um ambiente para validação de estratégias de Growth, CRM, Analytics e Automação.
+Além do impacto gerado para os membros, o projeto funciona como um ambiente pessoal para validação de estratégias de Growth, CRM, Analytics e Automação.
 
 ### Resultados
 
@@ -126,14 +126,6 @@ Objetivos:
 * Distribuição de conteúdo
 * Analytics
 * Educação de mercado
-
----
-
-## Atualmente estudando
-
-* Growth orientado a experimentação
-* Operações Agênticas
-* Marketing Analytics
 
 ---
 
