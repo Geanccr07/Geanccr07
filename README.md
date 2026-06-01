@@ -1,76 +1,101 @@
 # Gean Carlos Claudino Ribeiro
 
-Growth Operations | CRM Operations | RevOps | Marketing Analytics
+**Growth Marketing | CRM | Marketing Operations | Analytics**
 
-Profissional de Growth focado em construção de operações escaláveis, automações, CRM, Dados, tracking e integração de ferramentas.
+Profissional com mais de **3 anos de experiência em operações, automação de processos, dados e marketing**, atuando com geração de demanda, integração entre ferramentas, automações e processos de Marketing e Vendas.
 
-Atualmente atuo estruturando processos de Marketing e Vendas através de CRM, automações, analytics e infraestrutura de dados.
+Experiência em implantação de CRM, automações, tracking, Marketing analytics, integração de ferramentas e estruturação de operações de Marketing e Vendas.
 
-## Principais competências
-
-* CRM Operations
-* Marketing Operations
-* RevOps
-* GTM Engineering
-* Marketing Analytics
-* Automações com n8n
-* Tracking (GA4 + GTM)
-* BigQuery
-* Google Data Studio
-* Mautic
-* Google Apps Script
-* Integrações via API e Webhooks
-* RD Station (MKT, CRM, Conversas)
+Atualmente trabalho com Growth e CRM: desenvolvo réguas de comunicação, integro plataformas, crio e estruturo processos, faço experimentações, gero automações e cuido da infraestrutura de MKT e Vendas.
 
 ---
 
-## Projetos em destaque
+## Principais competências
 
-### First Step Lab
+### Growth & CRM
 
-Projeto próprio criado para ajudar profissionais a conquistarem suas vagas com método. De graça.
+* Growth Marketing
+* CRM Marketing
+* Marketing Operations
+* RevOps
+* Marketing Analytics
+* Lead Management
+* Automação de Marketing
+* Nutrição de Leads
 
-Resultados:
+### Dados & Tracking
+
+* Google Analytics 4 (GA4)
+* Google Tag Manager (GTM)
+* BigQuery
+* Looker Studio
+* Dashboards Operacionais
+* Implementação de Eventos
+* Tracking Client-side
+
+### Automação & Integrações
+
+* n8n
+* Google Apps Script
+* APIs
+* Webhooks
+* Automações Operacionais
+* Integração entre Sistemas
+
+### CRM & MarTech
+
+* Mautic
+* RD Station Marketing
+* RD CRM
+* RD Conversas
+* Pipelead
+* Brevo
+
+---
+
+## Projeto em Destaque: First Step Lab
+
+Projeto próprio criado para ajudar profissionais a conquistarem oportunidades de carreira através de conteúdo, mentorias e comunidade.
+
+Além do impacto gerado para os membros, o projeto funciona como um ambiente para validação de estratégias de Growth, CRM, Analytics e Automação.
+
+### Resultados
 
 * 130+ membros na comunidade
 * 20+ mentorias realizadas
-* 7+ Profissionais contratados com apoio direto do projeto
+* 7+ profissionais contratados com apoio direto do projeto
 
-Stack:
+### Estrutura construída
+
+* Site institucional
+* Blog otimizado para SEO
+* Captura de leads
+* Tracking
+* Dashboard de Analytics
+* Fluxos automatizados
+* Integrações via Webhook
+* Automações de Email Marketing
+
+### Stack
 
 * GitHub Pages
-* GA4
-* GTM
-* Brevo
+* Astro
+* Vercel
+* Google Analytics 4
+* Google Tag Manager
 * Google Sheets
+* Brevo
 * n8n
-* Google Data Studio
+* Looker Studio
 * VS Code
 
 ---
 
-### Arquitetura de Captura e Onboarding
+## Tracking & Analytics
 
-Fluxo automatizado:
+Implementação de eventos customizados seguindo convenções de mensuração para acompanhamento completo da jornada do usuário.
 
-Lead
-→ Formulário
-→ Webhook
-→ Google Sheets
-→ n8n
-→ Brevo
-→ Email de boas-vindas
-
-Objetivo:
-Eliminar atividades manuais e garantir onboarding imediato dos novos membros.
-
----
-
-### Tracking e Analytics
-
-Implementação de eventos customizados usando naming convention para análise completa da jornada do usuário.
-
-Eventos:
+### Eventos implementados
 
 * form_start
 * form_step
@@ -78,42 +103,44 @@ Eventos:
 * scroll_depth
 * audio_start
 * audio_progress
-* cta_clicks
+* cta_click
+* page_view
 
-Stack:
+### Ferramentas
 
 * Google Tag Manager
 * Google Analytics 4
-* Google Data Studio
+* BigQuery
+* Looker Studio
 
 ---
 
-### Blog da First Step Lab
+## Blog First Step Lab
 
-Blog construído com Astro e deploy com Vercel.
+Blog desenvolvido com Astro e hospedado na Vercel.
 
-Foco em:
+Objetivos:
 
 * SEO
-* Analytics
-* Distribuição de conteúdo
 * Geração de demanda orgânica
+* Distribuição de conteúdo
+* Analytics
+* Educação de mercado
 
 ---
 
 ## Atualmente estudando
 
-* Arquiteturas de RevOps
 * Growth orientado a experimentação
-* IA aplicada à operação agêntica
+* Operações Agênticas
 * Marketing Analytics
 
 ---
 
 ## Contato
 
-LinkedIn:
+LinkedIn
 linkedin.com/in/gean-carlos-ribeiro
 
-Site:
+Site
 firststeplab.com.br
