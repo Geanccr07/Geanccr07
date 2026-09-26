@@ -132,7 +132,7 @@ Objetivos:
 ## Contato
 
 LinkedIn
-linkedin.com/in/gean-carlos-ribeiro
+linkedin.com/in/gean-carlos-ribeiro-growth
 
 Site
 firststeplab.com.br
